@@ -1,7 +1,8 @@
 import { useState } from "react";
+import { foodItems } from "./data";
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [foodItems, setFoodItems] = useState(foodItems);
 
   return (
     <div className="App">
