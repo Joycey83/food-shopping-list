@@ -5,7 +5,7 @@ function App() {
   const [food, setFood] = useState(foodItems);
 
   return (
-    <div className="App">
+    <div className="shopping--container">
       <h1>{food.length} Food items to buy</h1>
     </div>
   );
