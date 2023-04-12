@@ -1,3 +1,5 @@
+import RemoveButton from "./RemoveButton";
+
 const FoodType = ({ image, text, price }) => {
   return (
     <article className="product--container">
@@ -5,6 +7,7 @@ const FoodType = ({ image, text, price }) => {
       <div className="product-info">
         <h4>{text}</h4>
         <p>£{price}</p>
+        <RemoveButton />
       </div>
     </article>
   );
