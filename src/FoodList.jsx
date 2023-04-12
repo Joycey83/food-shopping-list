@@ -1,10 +1,10 @@
-import Food from "./food";
+import FoodType from "./FoodType";
 
-const FoodList = ({ foodType }) => {
+const FoodList = ({ foodProduct }) => {
   return (
     <section>
-      {foodType.map((foodNum) => {
-        return <Food key={foodNum.id} {...foodNum} />;
+      {foodProduct.map((foodnum) => {
+        return <FoodType key={foodnum.id} {...foodnum} />;
       })}
     </section>
   );

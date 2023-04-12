@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="shopping--container">
       <h1>{food.length} Food items to buy</h1>
-      <FoodList foodType={food} />
+      <FoodList foodProduct={food} />
     </div>
   );
 }
