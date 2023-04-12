@@ -1,6 +1,7 @@
 .shopping--container {
   max-width: 1000px;
   margin: 4rem auto;
+  padding: 3rem;
   background-color: rgba(0, 0, 0, 0.07);
 }
 
@@ -10,4 +11,12 @@ h1 {
 
 .product--container {
   margin: 2rem;
+}
+
+.product-info {
+  max-width: 400px;
+  margin: 1rem auto;
+  padding: 1.5rem;
+  background-color: beige;
+  text-align: center;
 }
