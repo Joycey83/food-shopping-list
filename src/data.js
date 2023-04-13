@@ -15,4 +15,5 @@ export const foodItems = [
   { id: 9, image: "", text: "Tesco 12 Salt & Pepper Prawns", price: 3.0 },
   { id: 10, image: "", text: "Tesco Finest Tomatoes On The Vine", price: 2.0 },
   { id: 11, image: "", text: "Tesco Finest Potatoes", price: 1.8 },
+  { id: 12, image: "", text: "Tesco Finest Potatoes", price: 1.8 },
 ];
