@@ -11,18 +11,38 @@ import foodImage10 from "./images/tomatoes.jpeg";
 
 export const foodItems = [
   { id: 1, image: foodImage1, text: "Tesco Fusilli Pasta Twists", price: 1.65 },
-  { id: 2, image: "", text: "Tesco Beef Mince 20% Fat", price: 2.49 },
-  { id: 3, image: "", text: "Birds Eye 22 Chicken Dippers", price: 3.6 },
+  { id: 2, image: foodImage2, text: "Tesco Beef Mince 20% Fat", price: 2.49 },
+  {
+    id: 3,
+    image: foodImage3,
+    text: "Birds Eye 22 Chicken Dippers",
+    price: 3.6,
+  },
   {
     id: 4,
-    image: "",
+    image: foodImage4,
     text: "Tesco Roast In Bag Whole Chicken Butter",
     price: 5.9,
   },
-  { id: 5, image: "", text: "Mccain Home Chips Straight Cut", price: 4.3 },
-  { id: 6, image: "", text: "Walkers French Fries ", price: 3.0 },
-  { id: 7, image: "", text: "Warburtons Crumpets 6 Pack", price: 0.9 },
-  { id: 8, image: "", text: "Snickers Ice Cream 4 Pack", price: 2.5 },
-  { id: 9, image: "", text: "Tesco 12 Salt & Pepper Prawns", price: 3.0 },
-  { id: 10, image: "", text: "Tesco Finest Tomatoes On The Vine", price: 2.0 },
+  {
+    id: 5,
+    image: foodImage5,
+    text: "Mccain Home Chips Straight Cut",
+    price: 4.3,
+  },
+  { id: 6, image: foodImage6, text: "Walkers French Fries ", price: 3.0 },
+  { id: 7, image: foodImage7, text: "Warburtons Crumpets 6 Pack", price: 0.9 },
+  { id: 8, image: foodImage8, text: "Snickers Ice Cream 4 Pack", price: 2.5 },
+  {
+    id: 9,
+    image: foodImage9,
+    text: "Tesco 12 Salt & Pepper Prawns",
+    price: 3.0,
+  },
+  {
+    id: 10,
+    image: foodImage10,
+    text: "Tesco Finest Tomatoes On The Vine",
+    price: 2.0,
+  },
 ];
