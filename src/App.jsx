@@ -9,6 +9,7 @@ function App() {
     <div className="shopping--container">
       <h1>{food.length} Food items to buy</h1>
       <FoodList foodProduct={food} />
+      <button className=" btn clear--btn">Clear All Items</button>
     </div>
   );
 }
