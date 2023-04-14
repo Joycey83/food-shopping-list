@@ -1,4 +1,13 @@
 import foodImage1 from "./images/pasta.jpeg";
+import foodImage2 from "./images/beef.jpeg";
+import foodImage3 from "./images/chicken-dipper.jpeg";
+import foodImage4 from "./images/chicken.jpeg";
+import foodImage5 from "./images/chips.jpeg";
+import foodImage6 from "./images/crisps.jpeg";
+import foodImage7 from "./images/crumpets.jpeg";
+import foodImage8 from "./images/ice-cream.jpeg";
+import foodImage9 from "./images/prawns.jpeg";
+import foodImage10 from "./images/tomatoes.jpeg";
 
 export const foodItems = [
   { id: 1, image: foodImage1, text: "Tesco Fusilli Pasta Twists", price: 1.65 },
