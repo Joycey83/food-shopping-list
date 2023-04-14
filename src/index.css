@@ -40,3 +40,10 @@ h1 {
   background-color: rgb(195, 40, 40);
   border: 2px solid rgb(77, 15, 15);
 }
+
+.food-img {
+  display: block;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
