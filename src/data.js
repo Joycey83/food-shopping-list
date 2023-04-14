@@ -1,5 +1,7 @@
+import foodImage1 from "./images/pasta.jpeg";
+
 export const foodItems = [
-  { id: 1, image: "", text: "Tesco Fusilli Pasta Twists", price: 1.65 },
+  { id: 1, image: foodImage1, text: "Tesco Fusilli Pasta Twists", price: 1.65 },
   { id: 2, image: "", text: "Tesco Beef Mince 20% Fat", price: 2.49 },
   { id: 3, image: "", text: "Birds Eye 22 Chicken Dippers", price: 3.6 },
   {
