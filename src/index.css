@@ -43,7 +43,8 @@ h1 {
 
 .food-img {
   display: block;
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
+  border: 2px solid rgb(21, 7, 7);
 }
