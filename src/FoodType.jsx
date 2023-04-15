@@ -1,4 +1,5 @@
 import RemoveButton from "./RemoveButton";
+import styles from "./FoodType.module.css";
 
 const FoodType = ({ image, text, price }) => {
   return (
