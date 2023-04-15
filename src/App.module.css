@@ -1,6 +1,8 @@
 .shopping--container {
   max-width: 800px;
+  border-radius: 5px;
   margin: 4rem auto;
   padding: 3rem;
-  background-color: rgba(0, 0, 0, 0.07);
+  background-color: #fdf4f5;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
