@@ -10,7 +10,7 @@ function App() {
     <div className={styles["shopping--container"]}>
       <h1>{food.length} Food items to buy</h1>
       <FoodList foodProduct={food} />
-      <button className=" btn clear--btn">Clear All Items</button>
+      <button className={styles["clear--btn"]}>Clear All Items</button>
     </div>
   );
 }

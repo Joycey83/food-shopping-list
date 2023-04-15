@@ -6,3 +6,15 @@
   background-color: #fdf4f5;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
+.clear--btn {
+  display: block;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+  width: 50%;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: #913175;
+  border: none;
+  cursor: pointer;
+}
