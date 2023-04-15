@@ -5,7 +5,7 @@ const FoodType = ({ image, text, price }) => {
   return (
     <article className={styles["product--container"]}>
       <img src={image} alt={text} className={styles["food-img"]} />
-      <div className="product-info">
+      <div className={styles["product-info"]}>
         <h4>{text}</h4>
         <p>£{price}</p>
         <RemoveButton />
