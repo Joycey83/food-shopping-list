@@ -39,12 +39,3 @@ h1 {
   background-color: rgb(195, 40, 40);
   border: 2px solid rgb(77, 15, 15);
 }
-
-.food-img {
-  display: block;
-  margin: 30px auto;
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  border: 2px solid rgb(21, 7, 7);
-}

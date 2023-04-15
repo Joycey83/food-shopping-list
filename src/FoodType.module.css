@@ -3,3 +3,12 @@
   padding: 1.5rem;
   background-color: #917fb3;
 }
+
+.food-img {
+  display: block;
+  margin: 30px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid rgb(21, 7, 7);
+}
