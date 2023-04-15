@@ -1,0 +1,6 @@
+.shopping--container {
+  max-width: 800px;
+  margin: 4rem auto;
+  padding: 3rem;
+  background-color: rgba(0, 0, 0, 0.07);
+}
