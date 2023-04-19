@@ -20,3 +20,7 @@
   cursor: pointer;
   border-radius: 5px;
 }
+
+.clear--btn:hover {
+  background-color: #d16cb4;
+}
