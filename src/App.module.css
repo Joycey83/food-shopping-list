@@ -13,9 +13,10 @@
   font-size: 1.2rem;
   letter-spacing: 2px;
   width: 50%;
-  margin: 0 auto;
+  margin: 1.2rem auto;
   padding: 1rem;
   background-color: #913175;
   border: none;
   cursor: pointer;
+  border-radius: 5px;
 }
