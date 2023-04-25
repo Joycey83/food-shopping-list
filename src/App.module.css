@@ -4,6 +4,8 @@
   margin: 4rem auto;
   padding: 3rem;
   background-color: #fdf4f5;
+  background: url("./images/food-bg.jpg");
+  background-position: center;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
